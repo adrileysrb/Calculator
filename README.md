@@ -4,8 +4,8 @@
 
 <hr>
 <div align="center" >
-	<img src="open_screen.gif" width="255" height="440" />
-	<img src="using_app.gif" width="255" height="440" />
+	<img src="open_screen.gif" width="255" height="420" />
+	<img src="using_app.gif" width="255" height="420" />
 </div>
 <hr>
 
